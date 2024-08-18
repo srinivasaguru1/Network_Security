@@ -26,7 +26,7 @@ class NetworkDataExtract():
         except Exception as e:
             raise NetworkSecurityException(e,sys)
     
-    def pushing_data_to_mongodb(self)
+    def pushing_data_to_mongodb(self):
         try:
             pass
         except Exception as e:
